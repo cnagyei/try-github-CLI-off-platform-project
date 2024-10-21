@@ -1,5 +1,6 @@
 import random
 
+# This practice is great
 name = "Joe"
 question = "Will I win the lottery?"
 answer = ""
